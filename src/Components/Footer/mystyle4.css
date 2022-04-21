@@ -1,0 +1,76 @@
+footer {
+    background: #000;
+  }
+  
+  footer .container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+  
+  footer section {
+    padding-top: 60px;
+  }
+  
+  footer h3 {
+    color: gray;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  h3 {
+    margin-left: 18%;
+  }
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 2;
+  }
+  
+  footer a:hover {
+    font-weight: bold;
+  }
+  
+  footer a img:hover {
+    transform: scale(1.1);
+  }
+  
+  footer nav {
+    min-width: 18ch;
+  }
+  .horizontal_line {
+    width: 90%;
+    color: gray;
+  }
+  .last-logos {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+  .swiggy-logo1 {
+    height: 80px;
+    width: 180px;
+  }
+  .text-bottom {
+    color: aliceblue;
+  }
+  
+  .Deliver {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+  
+  .helloji {
+    padding-top: 0px;
+  }
+  .we {
+    margin-top: 4%;
+    margin-left: 8%;
+  }
+  .icons {
+    height: 50px;
+    width: 50px;
+  }
